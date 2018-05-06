@@ -1,12 +1,28 @@
 ---
-title: Elements
-date: 2013-12-24 23:29:08
+title: python 问题集锦
+date: 2018-04-19 00:09:08
 categories:
-- Foo
+- Techs blog
 tags:
+- python
+- program
 ---
 
-The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don't forget to redefine the style by yourself.
+    本文将记录本人在学习python的过程遇到的问题，本文将陆续更新。
+
+---
+    ---------------2018-04-15---------------------
+# Third ： python 入门与实践
+
+---
+    ---------------2018-04-08---------------------
+# Second ： 廖雪峰教程笔记
+
+---
+    ---------------2018-04-01---------------------
+# First ： 安装与初接触
+## 安装
+    python的安装很简单，但是还是有许多坑，现在跟大家说说，我遇到的坑。
 
 ---
 
