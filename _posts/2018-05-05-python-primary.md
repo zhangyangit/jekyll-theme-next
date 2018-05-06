@@ -10,15 +10,15 @@ tags:
 This is the Primary of Python. It try to introduce the basic knowledge. 
 
 ---
-    ---------------2018-XX-XX---------------------
+
 # Third ： 
 
 ---
-    ---------------2018-0X-XX---------------------
+
 # Second ：
 
 ---
-    ---------------2018-05-05---------------------
+
 # First ： 图片转字符串
 ## Preposition 相关库
 ### argparse 命令项选项与参数解析的模块
